@@ -2,7 +2,7 @@
 
 ## What is my cms?
 
-My CMS will be a Content-Managin-System developed by myself, using Flask as a backend and React as a frontend.
+My CMS will be a Content-Management-System developed by myself, using Flask as a backend and React as a frontend.
 
 I'm making this out or a personal project, I know there must be multitude of CMS' which can do better than mine, but this is an excercise for me too.
 
@@ -24,7 +24,7 @@ This is managed all automatically by Python's [Honcho](https://pypi.python.org/p
 
 1. First clone the repository
    ```
-   git clone X
+   git clone https://github.com/DrBomb/mycms.git
    cd mycms
    ```
 
